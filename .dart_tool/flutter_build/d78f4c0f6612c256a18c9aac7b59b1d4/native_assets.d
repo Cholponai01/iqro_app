@@ -1,0 +1,1 @@
+ D:\\iqro_app\\.dart_tool\\flutter_build\\d78f4c0f6612c256a18c9aac7b59b1d4\\native_assets.yaml: 

@@ -1,0 +1,4 @@
+#Wed Nov 22 20:28:01 ALMT 2023
+base.0=D\:\\iqro_app\\.dart_tool\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
